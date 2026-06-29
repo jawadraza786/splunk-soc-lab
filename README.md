@@ -1,4 +1,4 @@
-[splunk_README.md](https://github.com/user-attachments/files/29475641/splunk_README.md)
+[splunk_README.md](https://github.com/user-attachments/files/29475723/splunk_README.md)
 # Splunk SOC Home Lab — Threat Detection Dashboard
 
 A home Security Operations Center (SOC) lab built with Splunk Enterprise, featuring a Python-based security event log generator and a multi-panel threat detection dashboard. Simulates real-world attack scenarios analyzed by a SOC analyst.
